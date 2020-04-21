@@ -1,5 +1,5 @@
 GATE_SU_DS : 3 : 2
-GATE_SU_SI : 5 : 1
+GATE_SU_CC : 5 : 1
 GATE_SU_LF : 3 : 3
 GATE_CC_UW : 4 : 1
 GATE_DS_SL : 4 : 2
