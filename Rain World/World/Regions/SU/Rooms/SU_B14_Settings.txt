@@ -1,5 +1,5 @@
 Template: NONE
-DangerType: Flood
+DangerType: FloodAndRain
 Clouds: 0.01086957
 Grime: 0.3695652
 BkgDroneVolume: 0.2565218

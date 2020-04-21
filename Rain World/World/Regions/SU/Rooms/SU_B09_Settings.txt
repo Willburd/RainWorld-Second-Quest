@@ -1,4 +1,5 @@
 Template: SU_SettingsTemplate_Inside
+DangerType: FloodAndRain
 Clouds: 0.1521739
 Grime: 0.3913043
 BkgDroneVolume: 0.2769565

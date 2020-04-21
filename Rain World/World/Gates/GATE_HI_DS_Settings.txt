@@ -1,4 +1,5 @@
 Template: NONE
+DangerType: Flood
 Grime: 0.2391304
 Palette: 8
 PlacedObjects: ExitSymbolShelter><913.1998><269.9436><, NoSpearStickZone><485.6084><262.3913><-147~221, 
