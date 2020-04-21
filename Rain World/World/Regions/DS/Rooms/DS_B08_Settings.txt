@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.7608696
+Grime: 0.3478261
+Palette: 4
+PlacedObjects: InsectGroup><562.828><909.684><0~100~0~0~RockFlea~0.5, 
+AmbientSounds: OMNI><SO_WAT-DripTap.ogg><827.0363><637.9467><0.25><1, OMNI><SO_WAT-LilDrips.ogg><648.3156><637.689><0.4021739><1, 
+FadePalette: 8, 0.173913, 0.2065217

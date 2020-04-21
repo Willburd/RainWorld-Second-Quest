@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Grime: 0
+RandomItemDensity: 0.2608696
+Palette: 10
+EffectColorB: 21
+PlacedObjects: ExitSymbolHidden><230.1932><109.0516><, ExitSymbolHidden><915.194><188.9512><, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><752.7929><461.6953><0.3152174><1><455.7929><715.6954><8.644653><-276.3553><0><0.4804349, 
