@@ -4,7 +4,7 @@ GATE_SU_LF : 3 : 3
 GATE_CC_UW : 4 : 1
 GATE_DS_SL : 4 : 2
 GATE_DS_SB : 1 : 4
-GATE_GW_SL : 3 : 2
+GATE_SL_GW : 2 : 3
 GATE_HI_CC : 3 : 3
 GATE_HI_GW : 2 : 2
 GATE_HI_SH : 5 : 1
