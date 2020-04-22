@@ -1,0 +1,10 @@
+Template: SH_SettingsTemplate_DarkSun
+DangerType: Rain
+Clouds: 0.1630435
+BkgDroneVolume: 0
+Palette: 9
+Effects: LightBurn-0.6304348-38-120, 
+PlacedObjects: DangleFruit><86.42456><532.0648><-314~-121~2~3, DangleFruit><111.0509><469.0193><-300~-195~2~3, DangleFruit><447.0512><532.2281><-231~-322~2~3, CustomDecal><652.442><326.1941><-34~60~223~91~229~-2~-393~-65~0.2934783~1~0~WhiteJunkScribble~0.3369565~0~0.5760869~1~0.07608695~1~0.6086956~0.3152174, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><716.5507><564.9832><0.5543478><0.7847826, OMNI><AM_ENV-LightWind.ogg><712.3002><637.7578><0.2717391><0.8043478, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_40 - Floes<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>909.8383<tB>468.5705<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
+FadePalette: 10, 0.75

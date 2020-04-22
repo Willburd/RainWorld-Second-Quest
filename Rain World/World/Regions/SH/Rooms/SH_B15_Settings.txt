@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.1304348
+BkgDroneVolume: 0
+Palette: 10
+PlacedObjects: ReliableSpear><544.0928><1151.124><, 
+AmbientSounds: SPOT><SO_NAT-LilDrips.ogg><378.6967><525.3073><0.25><1><593.6967><1122.307><-120.3553><-29.35535><0><0.5239132, SPOT><SO_NAT-LilDrips.ogg><377.4191><414.1432><0.1630435><1><381.4191><177.1432><-163.3553><-34.35535><0><0.5239132, OMNI><AM_ENV-CityTone.ogg><858.804><610.7897><0.2173913><0.8434783, OMNI><AM_RAIN-Rumbles.ogg><681.9093><610.8218><0.2391304><0.8826087, 
+FadePalette: 8, 0.7608696, 0.8043478

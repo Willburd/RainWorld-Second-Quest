@@ -1,0 +1,7 @@
+Template: NONE
+Grime: 0.2391304
+Palette: 10
+EffectColorA: 21
+EffectColorB: 21
+PlacedObjects: ExitSymbolShelter><913.1998><269.9436><, NoSpearStickZone><483.6084><243.3913><-147~221, LanternOnStick><230.6819><218.3332><-3~-145, LanternOnStick><191.6459><291.3869><34~-199, 
+FadePalette: 4, 0
