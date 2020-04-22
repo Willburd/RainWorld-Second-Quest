@@ -1,0 +1,2 @@
+Template: SL_SettingsTemplate_Sewer
+FadePalette: 10, 0.5434783, 0.5434783

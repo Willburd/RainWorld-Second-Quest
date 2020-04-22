@@ -1,0 +1,3 @@
+Clouds: 0.2282609
+Effects: Fog-1-9-19, 
+FadePalette: 9, 0.08695652, 0.09782609
