@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Rain
+Clouds: 0.3369565
+Grime: 0.4021739
+Palette: 9
+EffectColorB: 13
+Effects: Flies-0.2065217-20-20, RockFlea-0.07608695-34-89, 
+PlacedObjects: NoSpearStickZone><479.9058><250.3236><160~262, 
+FadePalette: 11, 0.3478261
