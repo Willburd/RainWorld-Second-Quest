@@ -1,0 +1,9 @@
+Template: SB_SettingsTemplate_Temple
+DangerType: None
+Palette: 17
+EffectColorA: 15
+Effects: VoidMelt-0.07608695-20-20, 
+PlacedObjects: LightSource><539.3171><413.1689><1~EffectColor1~-496~-37~50~86.60254~0~0, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><842.1661><638.8615><0.4347826><1, OMNI><AM_SUB-MysticCave2.ogg><666.9418><637.0565><0.326087><0.7847826, OMNI><SO_NAT-LilDrips.ogg><491.9966><640.45><0.173913><1, 
+FadePalette: 21, 0.1630435
+RoomSpecificScriptActive: ON

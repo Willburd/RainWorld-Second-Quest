@@ -1,0 +1,6 @@
+Template: SB_SettingsTemplate_Filter
+DangerType: Flood
+Grime: 0.1956522
+Palette: 21
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><831.3393><631.821><0.3478261><1, 
+FadePalette: 17, 0.4456522

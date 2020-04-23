@@ -1,0 +1,4 @@
+DangerType: Flood
+Palette: 10
+Effects: FireFlies-0.2391304-20-20, 
+PlacedObjects: DangleFruit><449.8606><463.6066><0~0~2~3, DangleFruit><475.036><396.9467><0~0~2~3, 

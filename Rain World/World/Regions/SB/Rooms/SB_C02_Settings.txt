@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: FloodAndRain
+Grime: 0.04347826
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+EffectColorB: 13
+Effects: FireFlies-0.5217391-24-88, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><830.5414><646.9457><0.5><1.156522, OMNI><AM_SUB-BlankState.ogg><642.0533><641.2139><0.5><1.136956, 
+FadePalette: 8, 0, 0, 0
