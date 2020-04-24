@@ -3,6 +3,7 @@ DangerType: Rain
 Clouds: 0.3586957
 Grime: 0.1956522
 BkgDroneVolume: 0
-Palette: 29
+Palette: 2
 PlacedObjects: NoSpearStickZone><479.6824><242.1882><-259~110, 
-FadePalette: 6, 0.5760869
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><859.4938><628.5501><0.3695652><1.019565, 
+FadePalette: 3, 0.75

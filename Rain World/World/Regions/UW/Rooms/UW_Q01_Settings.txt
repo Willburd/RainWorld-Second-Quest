@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Rain
+RainIntensity: 0.7173913
+RumbleIntensity: 1
+Clouds: 0.6847826
+Grime: 0
+Palette: 3
+EffectColorA: 18
+EffectColorB: 3
+Effects: ElectricDeath-0.4673913-29-34, GreenSparks-0.3695652-27-89, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><472.9312><643.6652><0.3695652><0.7456522, OMNI><AM_RAIN-QuietThunder.ogg><657.8256><646.6521><0.423913><0.8434783, OMNI><AM_ENV-NatWind.ogg><836.907><645.1771><0.5217391><1, OMNI><AM_RAIN-Rumbles.ogg><836.4024><568.0754><0.2391304><1, 
+FadePalette: 2, 0.4021739
