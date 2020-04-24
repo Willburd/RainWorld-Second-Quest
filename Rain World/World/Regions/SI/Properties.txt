@@ -1,0 +1,44 @@
+Palette: 2
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.4
+overseersMin: 0
+overseersMax: 4
+Subregion: Sky Islands
+Subregion: Communications Array
+playerGuideOverseerSpawnChance: 0.2
+Room Setting Templates: Outside, Inside
+Room_Attr: SI_B13: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_D07: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_C09: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_B03: RedCentipede-2,SmallNeedleWorm-4,BigNeedleWorm-4,KingVulture-1,
+Room_Attr: SI_B12: RedCentipede-2,SmallNeedleWorm-4,BigNeedleWorm-4,KingVulture-1,
+Room_Attr: SI_D06: YellowLizard-4,CyanLizard-1,RedCentipede-3,SmallNeedleWorm-1,BigNeedleWorm-1,DropBug-3,KingVulture-1,
+Room_Attr: SI_B10: CyanLizard-1,RedCentipede-3,SmallNeedleWorm-1,BigNeedleWorm-1,DropBug-3,KingVulture-1,
+Room_Attr: SI_A27: CyanLizard-1,RedCentipede-3,SmallNeedleWorm-1,BigNeedleWorm-1,DropBug-3,KingVulture-1,
+Room_Attr: SI_C06: CyanLizard-1,RedCentipede-3,SmallNeedleWorm-1,BigNeedleWorm-1,DropBug-3,KingVulture-1,
+Room_Attr: SI_C08: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_B01: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_C04: Vulture-2,RedCentipede-2,KingVulture-1,
+Room_Attr: SI_C02: CyanLizard-3,SmallNeedleWorm-4,BigNeedleWorm-4,KingVulture-1,
+Room_Attr: SI_C07: CyanLizard-4,RedCentipede-2,KingVulture-1,
+Room_Attr: SI_A17: CyanLizard-2,SmallNeedleWorm-2,BigNeedleWorm-2,DropBug-3,
+Room_Attr: SI_A18: CyanLizard-2,SmallNeedleWorm-1,BigNeedleWorm-1,DropBug-3,
+Room_Attr: SI_C05: CyanLizard-1,KingVulture-1,
+Room_Attr: SI_D05: CyanLizard-1,RedCentipede-2,KingVulture-1,
+Room_Attr: SI_B11: CyanLizard-1,RedCentipede-2,KingVulture-1,
+Room_Attr: SI_A02: RedCentipede-2,SmallNeedleWorm-3,BigNeedleWorm-3,KingVulture-1,
+Room_Attr: SI_C01: YellowLizard-4,CyanLizard-4,RedCentipede-2,KingVulture-1,
+Room_Attr: SI_A23: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_B09: RedCentipede-2,SmallNeedleWorm-3,BigNeedleWorm-3,KingVulture-1,
+Room_Attr: SI_A20: DropBug-3,
+Room_Attr: SI_A28: CyanLizard-1,SmallNeedleWorm-1,BigNeedleWorm-1,DropBug-3,
+Room_Attr: SI_D03: Vulture-2,RedCentipede-2,KingVulture-1,
+Room_Attr: SI_C03: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_D01: Vulture-2,RedCentipede-2,SmallNeedleWorm-1,BigNeedleWorm-1,KingVulture-1,
+Room_Attr: SI_B02: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_B04: RedCentipede-2,KingVulture-1,
+Room_Attr: SI_A06: RedCentipede-2,KingVulture-2,
+Room_Attr: SI_A07: RedCentipede-2,
