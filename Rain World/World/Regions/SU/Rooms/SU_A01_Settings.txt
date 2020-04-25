@@ -1,0 +1,4 @@
+BkgDroneVolume: 0.2769565
+EffectColorB: 6
+PlacedObjects: DangleFruit><255.6982><397.9973><0~0~2~3, DangleFruit><363.3405><349.1206><0~0~2~3, DangleFruit><768.8962><426.8634><0~0~2~3, InsectGroup><421.1132><126.3958><14~158~0~0~TinyDragonFly~0.5, 
+FadePalette: 8, 0.1195652
