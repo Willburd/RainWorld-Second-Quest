@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+Clouds: 0
+Grime: 0
+Palette: 24
+EffectColorB: 12
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.2608696-19-86, BrokenZeroG-0-284-20, CorruptionSpores-0.5-286-81, Bloom-0.5978261-24-139, SSSwarmers-0.1195652-282-144, SunBlock-1-270-205, 
+PlacedObjects: LightSource><45.69092><143.8095><1~Environment~-9~139~-127~170.6026~1~0, LightSource><521.9244><321.5979><0.543478~Environment~-723~452~50~86.60254~0~0, Corruption><869.801><106.4793><-146~124, Filter><874.3561><99.16962><-16~-26~0~0~010, WallMycelia><300.9971><47.55002><0~100, WallMycelia><214.8384><546.8679><0~100, CoralNeuron><332.1593><269.621><262~228, Filter><319.0885><256.9293><1~61~0~0~101, SpotLight><305.8234><115.5937><-199~374~259~582~558~209, 
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><831.45><648.5001><0.4456522><1, 
+FadePalette: 17, 0
