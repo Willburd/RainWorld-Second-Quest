@@ -71,8 +71,8 @@ DS_C04 : 3-TentaclePlant
 (0,1)DS_A08 : 3-Snail-2, 5-Snail-2
 (0,1)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
 (0,1)LINEAGE : DS_A06 : 3 : Green-0.2, Salamander-0.5, Blue-0.3, Red-0
-(0,1)LINEAGE : DS_A02 : 4 : Pink-0.2, Salamander-0.5, Blue-0.3, Red-0
-(0,1)LINEAGE : DS_A22 : 3 : Green-0.2, Salamander-0.2, White-0
+(0,1)LINEAGE : DS_A02 : 4 : Blue-0.2, Salamander-0.5, Blue-0.3, Red-0
+(0,1)LINEAGE : DS_A22 : 3 : Blue-0.2, Salamander-0.2, White-0
 (0,1)LINEAGE : DS_A09 : 2 : Salamander-0.2, Blue-0.5, White-0.5, Red-0
 (0,1)LINEAGE : DS_A16 : 2 : Salamander-0.2, Blue-0.2, White-0
 //yellow
@@ -89,7 +89,7 @@ DS_C04 : 3-TentaclePlant
 (2)LINEAGE : DS_A02 : 4 : Centipede-0.6, Centipede-{1.0}-1.0, RedCentipede-0
 (2)LINEAGE : DS_A16 : 2 : DropBug-1.0, Salamander-1.0, Cyan-0.1, Red-0
 (2)LINEAGE : DS_A06 : 3 : Salamander-1.0, Cyan-0.1, Red-0
-(2)LINEAGE : DS_A22 : 3 : Green-0.5, Salamander-1, White-1, Cyan-0
+(2)LINEAGE : DS_A22 : 3 : White-0.5, Blue-0.4, Cyan-0
 (2)LINEAGE : DS_A09 : 2 : Salamander-0.2, Cyan-0.1, Red-0
 
 
