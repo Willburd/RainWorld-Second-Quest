@@ -1,7 +1,7 @@
 Template: UW_SettingsTemplate_Wall
 CeilingDrips: 0
-RainIntensity: 0
-RumbleIntensity: 0.1413043
+RainIntensity: 0.3586957
+RumbleIntensity: 0.7282609
 Clouds: 0
 Palette: 28
 Effects: Flies-0-20-20, Fog-0.01086957-22-73, AboveCloudsView-1-23-139, 

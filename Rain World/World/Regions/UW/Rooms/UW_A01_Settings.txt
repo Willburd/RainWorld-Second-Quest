@@ -1,6 +1,6 @@
 Template: UW_SettingsTemplate_Wall
-RainIntensity: 0.5217391
-RumbleIntensity: 0.5326087
+RainIntensity: 0
+RumbleIntensity: 0
 Clouds: 0.25
 Grime: 0.25
 Palette: 29
