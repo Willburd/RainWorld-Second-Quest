@@ -9,6 +9,7 @@ overseersMax: 4
 Subregion: Sky Islands
 Subregion: Communications Array
 playerGuideOverseerSpawnChance: 0.2
+Broken Shelters: 2: SI_S05
 Room Setting Templates: Outside, Inside
 Room_Attr: SI_B13: RedCentipede-2,KingVulture-1,
 Room_Attr: SI_D07: RedCentipede-2,KingVulture-1,

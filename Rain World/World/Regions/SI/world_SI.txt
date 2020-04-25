@@ -51,7 +51,7 @@ SI_D05 : 5-CicadaA, 6-CicadaA
 SI_B11 : 1-CicadaA, 2-CicadaB
 SI_B02 : 1-CicadaA, 2-CicadaA
 SI_C05 : 3-Mimic-{10}, 4-Mimic-{13}, 5-Mimic-{14}, 6-Mimic-{17}
-SI_C02 : 5-BigNeedleWorm, 5-SmallNeedleWorm-3, 8-Mimic-{24}, 9-Mimic-{18}
+SI_C02 : 5-BigNeedleWorm, 5-SmallNeedleWorm-3, 8-Mimic-{24}, 9-Mimic-{18}, 5-CicadaA-4, 6-CicadaB-3
 SI_B12 : 2-BigNeedleWorm, 2-SmallNeedleWorm-3
 SI_C07 : 1-Centiwing
 LINEAGE : SI_B01 : 4 : Pink-0.5, Blue-0.5, White-0.3, Red-0
