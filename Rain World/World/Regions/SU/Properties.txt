@@ -11,11 +11,11 @@ playerGuideOverseerSpawnChance: 1.0
 Subregion: Outskirts
 Room Setting Templates: Outside, Inside
 Room_Attr: SU_B14: Vulture-1,SmallNeedleWorm-2,BigNeedleWorm-2,KingVulture-1,
+Room_Attr: SU_A10: PinkLizard-3,GreenLizard-3,
 Room_Attr: SU_B12: PinkLizard-2,GreenLizard-3,BlueLizard-3,YellowLizard-3,WhiteLizard-3,RedLizard-3,BlackLizard-3,Salamander-3,SmallNeedleWorm-3,BigNeedleWorm-3,DropBug-2,
 Room_Attr: SU_A63: PinkLizard-2,GreenLizard-2,BlueLizard-2,YellowLizard-2,WhiteLizard-2,RedLizard-2,BlackLizard-2,Salamander-2,Vulture-1,DropBug-2,KingVulture-1,
 Room_Attr: SU_A40: GreenLizard-3,BlueLizard-3,YellowLizard-3,WhiteLizard-3,RedLizard-3,BlackLizard-3,Salamander-3,Vulture-1,DropBug-2,KingVulture-1,
 Room_Attr: SU_A17: Vulture-1,SmallNeedleWorm-3,BigNeedleWorm-3,DropBug-2,KingVulture-1,
-Room_Attr: SU_A10: PinkLizard-3,GreenLizard-3,
 Room_Attr: SU_A32: Vulture-1,SmallNeedleWorm-2,BigNeedleWorm-2,KingVulture-1,
 Room_Attr: SU_B05: PinkLizard-3,GreenLizard-3,BlueLizard-3,YellowLizard-3,WhiteLizard-3,RedLizard-3,BlackLizard-3,Salamander-3,DropBug-3,
 Room_Attr: SU_B01: PinkLizard-3,SmallNeedleWorm-3,BigNeedleWorm-3,DropBug-3,
