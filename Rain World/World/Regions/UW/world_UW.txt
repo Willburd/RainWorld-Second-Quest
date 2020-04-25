@@ -63,6 +63,7 @@ UW_E01 : 3-Blue, 2-White, 4-Mimic-{18}, 5-Mimic-{16}
 UW_F01 : 4-White, 5-White
 UW_C04 : 5-Tube-2
 UW_C06 : 2-Tube, 3-Tube, 4-Tube, 6-Tube
+UW_D06 : 3-Tube-2
 LINEAGE : UW_J02 : 11 : White-0.5, White-{Mean:1.0}-0.5, NONE-0.3, Red-0
 
 //white
@@ -77,7 +78,8 @@ LINEAGE : UW_J02 : 11 : White-0.5, White-{Mean:1.0}-0.5, NONE-0.3, Red-0
 (0)LINEAGE : UW_E02 : 5 : White-{Mean:0.4}-0.5, NONE-0.3, White-{Mean:0.7}-0.3, Red-0
 
 //white and yellow
-(0,1)UW_D04 : 4-Daddy, 5-Tube, 6-Tube, 7-Tube
+(0,1)UW_D04 : 5-Tube, 6-Tube, 7-Tube
+(0,1)UW_E04 : 6-Daddy
 
 //yellow
 (1)UW_D03 : 3-White-{Mean:-0.05}
@@ -101,7 +103,6 @@ LINEAGE : UW_J02 : 11 : White-0.5, White-{Mean:1.0}-0.5, NONE-0.3, Red-0
 (2)LINEAGE : UW_D02 : 4 : Dropbug-0.5, White-{1.0}-0
 (2)UW_J02 : 5-Daddy, 16-Cyan, 19-Cyan, 17-Cyan, 13-Tube, 14-Tube
 (2)UW_E04 : 3-White, 6-Tube, 7-Tube
-(2)UW_D06 : 3-Tube
 (2)UW_C04 : 3-White-{Mean:0.7}
 (2)UW_A09 : 4-White-{Mean:0.7}
 (2)LINEAGE : UW_D07 : 4 : NONE-0.4, Dropbug-0
