@@ -52,7 +52,7 @@ LINEAGE : CC_A15 : 3 : Mimic-{13}-0.5, Mimic-{16}-0.5, Mimic-{21}-0.5, TentacleP
 (0)CC_B04 : 3-White
 (0)CC_B05 : 2-Blue
 (0)LINEAGE : CC_F01 : 3 : White-{Mean:0.3}-0.5, Blue-0.2, Cyan-0.2, Red-0
-(0)LINEAGE : CC_B01 : 2 : Pink-0.2, Blue-0.5, White-0.2, Cyan-0.2, Red-0
+(0)LINEAGE : CC_B05 : 3 : Pink-0.2, Blue-0.5, White-0.2, Cyan-0.2, Red-0
 (0)LINEAGE : CC_C11 : 3 : Blue-0.2, White-0.2, NONE-0.2, Red-0
 (0)LINEAGE : CC_B08 : 2 : Pink-0.2, White-0.2, Red-0
 (0)LINEAGE : CC_C03 : 4 : DropBug-0.1, SpitterSpider-0
@@ -60,7 +60,7 @@ LINEAGE : CC_A15 : 3 : Mimic-{13}-0.5, Mimic-{16}-0.5, Mimic-{21}-0.5, TentacleP
 
 //white and yellow
 (0,1)CC_B05 : 3-White
-(0,1)LINEAGE : CC_B01 : 2 : Pink-0.2, White-0.2, Red-0
+(0,1)LINEAGE : CC_B14 : 2 : Pink-0.2, White-0.2, Red-0
 (0,1)LINEAGE : CC_C08 : 3 : Pink-0.2, Blue-0.3, NONE-0.3, Cyan-0
 (0,1)LINEAGE : CC_C08 : 4 : Pink-0.2, Blue-0.3, NONE-0.3, Cyan-0
 (0,1)LINEAGE : CC_C05 : 3 : Blue-0.2, NONE-0.5, White-0.2, Red-0
@@ -70,7 +70,7 @@ LINEAGE : CC_A15 : 3 : Mimic-{13}-0.5, Mimic-{16}-0.5, Mimic-{21}-0.5, TentacleP
 (1)CC_B11 : 2-White
 (1)CC_B04 : 3-Blue
 (1)CC_B01 : 2-Blue
-(1)CC_F01 : 4-Pink
+(1)CC_B04 : 4-Pink
 (1)CC_B08 : 3-Blue
 (1)LINEAGE : CC_F01 : 3 : White-0.5-{Mean:-0.1}, Blue-0
 (1)LINEAGE : CC_B08 : 2 : NONE-0.3, Pink-0.2, White-0
