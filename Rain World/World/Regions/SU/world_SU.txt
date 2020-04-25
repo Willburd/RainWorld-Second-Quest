@@ -60,7 +60,8 @@ CREATURES
 SU_B11 : 4-CicadaB, 5-CicadaA
 SU_B02 : 4-CicadaB, 5-CicadaB
 SU_B06 : 6-CicadaB, 7-CicadaB
-SU_A07 : 4-Green, 5-Pink
+SU_A07 : 4-Green
+SU_A17 : 2-Pink
 LINEAGE : SU_A30 : 2 : NONE-0.3, EggBug-0
 LINEAGE : SU_A31 : 3 : NONE-0.1, Small Centipede-1.0, Centipede-{0.3}-1.0, Centipede-{0.5}-1.0, Centipede-{0.7}-0
 
@@ -76,11 +77,13 @@ LINEAGE : SU_A31 : 3 : NONE-0.1, Small Centipede-1.0, Centipede-{0.3}-1.0, Centi
 
 //white and yellow
 (0,1)LINEAGE : SU_A06 : 3 : Green-0.1, NONE-0.5, Pink-0.5, Cyan-0.5, Red-0
-(0,1)SU_B04 : 3-Pink, 4-Green
+(0,1)SU_B04 : 3-Pink
+(0,1)SU_B11 : 8-Green
 (0,1)SU_C02 : 5-Pink
 (0,1)SU_B05 : 5-Green
 (0,1)SU_B01 : 6-Mimic-{24}
-(0,1)SU_A10 : 2-Mimic-{21}, 3-Green
+(0,1)SU_A10 : 2-Mimic-{21}
+(0,1)SU_A30 : 2-Green
 
 //yellow
 (1)OFFSCREEN : 0-Scavenger-4
