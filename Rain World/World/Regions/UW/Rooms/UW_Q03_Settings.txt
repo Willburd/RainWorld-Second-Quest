@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.6630435
+Grime: 0.326087
+Palette: 3
+EffectColorA: 18
+EffectColorB: 0
+Effects: ElectricDeath-0.2608696-18-71, GreenSparks-0.1413043-20-20, 
+PlacedObjects: ReliableSpear><190.8754><1045.844><, ReliableSpear><924.1997><1081.01><, ReliableSpear><521.8178><233.0825><, ReliableSpear><1157.801><634.9855><, ReliableSpear><774.816><286.0786><, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><678.2309><569.3009><0.5217391><1, OMNI><AM_ENV-WallHum.ogg><493.9312><645.6652><0.4456522><0.9021739, OMNI><AM_RAIN-Rumbles.ogg><501.84><572.63><0.3369565><0.8434783, OMNI><AM_RAIN-QuietThunder.ogg><507.8256><503.6521><0.2934783><0.823913, OMNI><SO_WAT-RainishDrips.ogg><674.3021><645.2792><0.3586957><0.9021739, SPOT><AM_WIN-StrongWnd2.ogg><692.4917><449.4498><0.3804348><0.8630434><2166.492><1240.45><-322.3553><-86.35535><0><0.8717393, 
+FadePalette: 29, 0.6086956, 0.6847826, 0.4891304, 0.5652174

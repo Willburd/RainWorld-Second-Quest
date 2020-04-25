@@ -15,6 +15,6 @@ GATE_SH_DS : 2 : 3
 GATE_SI_CC : 3 : 4
 GATE_SI_LF : 3 : 3
 GATE_UW_SS : 5 : 1
-GATE_UW_SI : 1 : 4
+GATE_UW_SI : 2 : 4
 GATE_SH_SB : 5 : 4
 GATE_SB_GW : 2 : 3

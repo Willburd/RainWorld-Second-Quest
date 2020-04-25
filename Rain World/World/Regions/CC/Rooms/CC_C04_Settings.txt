@@ -1,0 +1,12 @@
+Template: NONE
+Clouds: 0.3913043
+Grime: 0.3913043
+BkgDroneVolume: 0.2869565
+Palette: 2
+EffectColorA: 10
+EffectColorB: 2
+Effects: Fog-0.173913-20-20, Flies-0.1304348-281-19, 
+PlacedObjects: DangleFruit><169.695><1100.808><-228~382~2~3, DangleFruit><825.1973><982.5334><-882~416~2~3, DangleFruit><245.1415><1169.892><-300~139~2~3, BlueToken><954.1676><2197.068><-15~-53~0~0~1~Vulture~111, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><761.6189><490.599><0.1847826><1, OMNI><AM_ENV-LightWind.ogg><751.1595><583.1206><0.3478261><0.8630434, SPOT><SO_IND-HVAC.ogg><724.8052><311.5453><0.2065217><1.273913><872.8052><2016.546><-126.3553><56.64465><0><0.2630436, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_CC_CANOPY<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>692.8925<tB>464.3314<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
+FadePalette: 15, 0.7065217, 0.7826087, 0.8695652

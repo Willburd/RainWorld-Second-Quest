@@ -1,0 +1,5 @@
+RainIntensity: 0.09782609
+RumbleIntensity: 0.6304348
+EffectColorA: 18
+Effects: ElectricDeath-1-20-78, 
+FadePalette: 3, 0, 0.3043478, 0.5760869
