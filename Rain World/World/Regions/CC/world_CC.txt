@@ -50,7 +50,7 @@ LINEAGE : CC_A15 : 3 : Mimic-{13}-0.5, Mimic-{16}-0.5, Mimic-{21}-0.5, TentacleP
 (0)OFFSCREEN : 0-Vulture-4, 0-Scavenger-6
 (0)LINEAGE : OFFSCREEN : 0 : Vulture-0.2, KingVulture-0
 (0)CC_B04 : 3-White
-(0)CC_B05 : 2-Pink
+(0)CC_B05 : 2-Blue
 (0)LINEAGE : CC_F01 : 3 : White-{Mean:0.3}-0.5, Blue-0.2, Cyan-0.2, Red-0
 (0)LINEAGE : CC_B01 : 2 : Pink-0.2, Blue-0.5, White-0.2, Cyan-0.2, Red-0
 (0)LINEAGE : CC_C11 : 3 : Blue-0.2, White-0.2, NONE-0.2, Red-0
@@ -67,7 +67,7 @@ LINEAGE : CC_A15 : 3 : Mimic-{13}-0.5, Mimic-{16}-0.5, Mimic-{21}-0.5, TentacleP
 
 //yellow
 (1)OFFSCREEN : 0-Vulture-3, 0-Scavenger-5
-(1)CC_B11 : 2-Green
+(1)CC_B11 : 2-White
 (1)CC_B04 : 3-Blue
 (1)CC_B01 : 2-Blue
 (1)CC_F01 : 4-Pink
@@ -80,10 +80,10 @@ LINEAGE : CC_A15 : 3 : Mimic-{13}-0.5, Mimic-{16}-0.5, Mimic-{21}-0.5, TentacleP
 //red
 (2)OFFSCREEN : 0-Vulture-4, 0-KingVulture-3, 0-Scavenger-7
 (2)CC_A15 : 4-Cyan-2
-(2)CC_B11 : 2-SpitterSpider, 3-BigSpider-2
+(2)CC_B11 : 2-SpitterSpider
 (2)CC_C11 : 4-SpitterSpider
-(2)CC_C03 : 4-BigSpider
-(2)CC_C11 : 3-DropBug
+(2)CC_C03 : 4-BigSpider, 5-Red
+(2)CC_C08 : 6-DropBug
 (2)CC_C04 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3
 (2)CC_B05 : 4-BigNeedleWorm, 4-SmallNeedleWorm-2
 (2)CC_B14 : 2-BigNeedleWorm, 2-SmallNeedleWorm-4
@@ -100,6 +100,7 @@ LINEAGE : CC_A15 : 3 : Mimic-{13}-0.5, Mimic-{16}-0.5, Mimic-{21}-0.5, TentacleP
 (2)LINEAGE : CC_B08 : 4 : EggBug-0.2, DropBug-0
 
 //white and red
+(0,2)CC_B11 : 3-BigSpider-2
 (0,2)CC_B01 : 2-Blue, 3-White
 (0,2)CC_F01 : 4-Pink-2
 (0,2)CC_B08 : 3-White, 2-Pink
