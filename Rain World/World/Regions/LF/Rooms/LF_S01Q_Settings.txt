@@ -1,0 +1,5 @@
+Clouds: 0.7173913
+Grime: 0.2282609
+EffectColorB: 7
+AmbientSounds: SPOT><AM_ENV-Outside.ogg><727.2292><474.0511><0.5><0.726087><436.2292><708.0511><-176.3553><-347.3553><0><0.1, 
+FadePalette: 8, 0.2934783
