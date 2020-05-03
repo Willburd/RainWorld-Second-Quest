@@ -1,6 +1,6 @@
 DangerType: Rain
 CeilingDrips: 0.5
-Clouds: 0.3804348
+Clouds: 1
 Grime: 0
 BkgDroneVolume: 0
 Palette: 10
