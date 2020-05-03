@@ -6,9 +6,6 @@ batDepleteCyclesMaxIfLessThanFiveLeft: 4
 overseersSpawnChance: 0.01
 overseersMin: 1
 overseersMax: 1
-Broken Shelters: 0: SB_S06
-Broken Shelters: 1: SB_S06
-Broken Shelters: 2: SB_S06
 playerGuideOverseerSpawnChance: 0.0
 Subregion: Subterranean
 Subregion: Depths
