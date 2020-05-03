@@ -1,5 +1,5 @@
 ===<Master Quest>===
-Ver. 1.0
+Ver. 1.1
 RAIN WORLD v1.5
 VANILLA+
 
@@ -32,6 +32,13 @@ to go to the options menu and change files to disable the checksum panic at the 
 
 The install cannot be undone unless you made a backup of your world before it, or verify the 
 game's files through steam for a complete reinstall.
+
+Before you begin playing, you will need to use the file clearing button in the options menu.
+This is needed because using the restart option on the file select screen does not clean the
+vanilla map exploration data from your file, and will break the maps in Master Quest.
+
+If you are updating from an older version, due to new room additions, creature spawns will be 
+broken if you do not clear your file.
 
 
 
