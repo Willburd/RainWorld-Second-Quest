@@ -37,9 +37,6 @@ Before you begin playing, you will need to use the file clearing button in the o
 This is needed because using the restart option on the file select screen does not clean the
 vanilla map exploration data from your file, and will break the maps in Master Quest.
 
-If you are updating from an older version, due to new room additions, creature spawns will be 
-broken if you do not clear your file.
-
 
 
 [CREDITS]
@@ -48,6 +45,18 @@ Marvy - Testing(Survivor)
 TollyCastle - Testing(Survivor)
 Enderzilla - Testing(Hunter)
 Devian Morgenstern - Testing(Survivor)
+
+
+
+[UPDATES]
+===1.1
+-Moved shelter to shoreline jetfish room
+-Removed lingering lights from shaded rooms
+-Added a shelter to leviathan lake in sub
+-removed axo spawn in drainage
+-disabled snails wanderering into the drainage tunnels
+-toned down leechs near the western drainage tunnel
+-moved a karma flower from industrial to drainage
 
 
 
