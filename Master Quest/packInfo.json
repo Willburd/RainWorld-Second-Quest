@@ -1,0 +1,12 @@
+{
+   "regionPackName": "Master Quest", 
+   "description": "A new game+ style mod that reorganizes the game's regions, trying to rekindle the feelings of when you first got lost in Rain World.", 
+   "author": "WILLBURD", 
+   "activated": true, 
+   "loadOrder": 2147483647, 
+   "regions": "", 
+   "thumbURL": "http://www.raindb.net/previews/master.png", 
+   "version": "1.1", 
+   "requirements": "", 
+   "checksum": "8c71f398642a8ce3ef4b1640fdc921f9" 
+}
